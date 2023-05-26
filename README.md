@@ -1,2 +1,2 @@
-# Android-App
+# Android
 Alarm Clock App in Android using Java
